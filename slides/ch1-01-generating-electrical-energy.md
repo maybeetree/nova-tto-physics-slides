@@ -84,12 +84,6 @@ Required:
 
 # Example exercise 1 - answer
 
-The LED lamp lights up for 2.0 minutes when the sensor in the lamp
-detects a movement.
-Calculate the energy consumption of the light in kJ.
-
-![LED lamp with sensor](img/led-lamp.jpg)
-
 Given:
 
 - $P = 10 \text{W}$
@@ -120,11 +114,6 @@ Required:
 - $E = \text{?}$
 
 # Example exercise 2 -- answer
-
-The Enecogen power station (capacity 870 MW) ran at an average
-of 60% of its full capacity in the week of 7-13 October.
-Calculate how much electrical energy this power station
-supplied in that week (7.0 days).
 
 Given:
 
