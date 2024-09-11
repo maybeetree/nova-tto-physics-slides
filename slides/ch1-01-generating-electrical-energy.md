@@ -21,6 +21,7 @@ Learning objectives (p. 10)
 
 ![Power station diagram](img/power-station.png)
 
+<!--
 # Coolant water
 
 The steam used to spin the turbines is sometimes
@@ -28,6 +29,7 @@ cooled using water from an external source,
 such as a lake.
 
 ![Steam coming from cooling towers](img/cooling-towers.png)
+-->
 
 # Induction voltage
 
@@ -128,6 +130,7 @@ Working:
 
 - $E = P \cdot s = 5.22 \cdot 10^8 = 6.05 \cdot 10^5 = 32 \cdot 10^14 \text{J}$
 
+<!--
 # Plus: solar panels
 
 - Power produced close to home
@@ -338,4 +341,7 @@ Use the data from the website to recalculate how many solar panels Emily would
 have to install
 in the Netherlands to meet her own energy needs.
 Does this answer match the one you found in Exercise d (roughly)?
+-->
+
+
 
