@@ -144,3 +144,4 @@ $\implies 230 \times 16 = 48 \times I_s$
 $\implies 3680 = 48 \times I_s$
 
 $\implies I_s = \frac{3680}{48} = 77 \text{ A}$
+

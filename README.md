@@ -1,6 +1,8 @@
 # Nova TTO Physics Slides
 
 These are slides to accompany the Nova HAVO/WVO TTO Physics textbook.
+Download the PowerPoint files on the
+[releases page](https://github.com/maybeetree/nova-tto-physics-slides/releases).
 
 Work in progress.
 
