@@ -7,7 +7,7 @@ pdf: pdfdir
 	${PANDOC} -t beamer slides/ch1* -o pdf/ch1.pdf
 
 ch1: pptxdir
-	${PANDOC} ${FLAGS} slides/ch1* -o pptx/ch1.pptx
+	${PANDOC} ${FLAGS} slides/ch1* -o pptx/nova-tto-phys-ch1.pptx
 
 ch2: pptxdir
 	# TODO
