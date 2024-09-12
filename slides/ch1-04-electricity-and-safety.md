@@ -35,8 +35,6 @@
 
 ![](img/meter-cabinet.jpg)
 
-![](img/circuit-breakers.jpg)
-
 ## Double Insulation
 
 - Wires have a layer of insulation (PCV) around the copper core
@@ -45,7 +43,7 @@
 - "Double insulation" means that the wires are also inside
     a hard tube
 
-![](img/double-insulation.jpg)
+![](img/double-insulation-symbol.jpg)
 
 ## Earth Leakage Circuit Breakers
 

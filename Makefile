@@ -1,5 +1,5 @@
 PANDOC:=pandoc
-FLAGS:=--slide-level 2 --lua-filter ./filters/missing-images.lua --reference-doc themes/colorful.pptx
+FLAGS:=--slide-level 2 --lua-filter ./filters/missing-images.lua --reference-doc themes/colorful-2.pptx
 
 default: ch1 ch2 ch5
 
