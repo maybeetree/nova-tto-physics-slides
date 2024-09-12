@@ -57,5 +57,40 @@
 
 ![](img/earth-leakage-breaker-diagram.jpg)
 
+## Earthing
 
+- Metal casings of electronic devices are connected to ground
+    with a third wire in the power cable
+- If the casing becomes live (due to a defect in the device),
+    the electricity flows into the ground and trips the
+    earth leakage breaker,
+    instead of shocking a person.
+
+![](img/kettle-earth.jpg)
+
+## Check knowledge
+
+1. Which **two** situations can cause the current in a group to
+    become too high
+
+1. Explain what has happened when a short circuit occurs in a device
+
+1. How can you tell that a circuit breaker has switched
+    off the power in the group?
+
+1. How does an earth leakage circuit breaker determine that the current
+    needs to be switched off?
+
+1. In what situation does an earth leakage circuit breaker provide
+    greater safety than a fuse?
+
+## Check knowledge 2
+
+Appliances with a metal casing (washing machine, fridge) are always earthed.
+
+1. Why is it important that the metal casing is earthed?
+1. How is the leakage current through a metal casing discharged?
+1. How can you recognize and earth wire?
+1. Explain why there is no point earthing the outer casing
+    of a double-insulated appliance.
 
