@@ -1,6 +1,6 @@
 # Chapter 1: Electricity
 
-Learning objectives (p. 8)
+## Learning objectives
 
 1. Voltages, currents, and how to measure them
 1. Frequency of a vibration
@@ -9,7 +9,7 @@ Learning objectives (p. 8)
 1. Conductors and Insulators
 1. Circuit diagrams
 
-# What you already know
+## What you already know
 
 - Show the voltmeter on the diagram
     - What does the voltmeter measure?
@@ -21,7 +21,7 @@ Learning objectives (p. 8)
 
 ![](img/ammeter-voltmeter.png)
 
-# What you already know
+## What you already know
 
 Riza's loudspeaker is making an annoying buzzing sound.
 The cone of the speaker goes in and out fifty times a second.
@@ -32,11 +32,11 @@ Which is correct?
 1. The frequency of the sound vibration is 50 dB.
 1. The frequency of the sound vibration is 50 Hz.
 
-# What you already know
+## What you already know
 
 What voltage is the voltmeter showing?
 
-# Convert
+## Convert
 
 - 275 mV = ______ V
 - 0.025 V = ______ mV
@@ -46,7 +46,7 @@ What voltage is the voltmeter showing?
 - 45 min = ______ h
 - 0.125 h = ______ s
 
-# Convert - answers
+## Convert - answers
 
 - 275 mV = .275 V
 - 0.025 V = 25 mV
@@ -56,28 +56,28 @@ What voltage is the voltmeter showing?
 - 45 min = 0.75 h
 - 0.125 h = 450 s
 
-# Type of circuit
+## Type of circuit
 
-![Two types of circuot](img/serier-parallel.png)
+![](img/serier-parallel.png)
 
 - Left circuit: ______
 - Right circuit: ______
 
-# Type of circuit
+## Type of circuit
 
-![Two types of circuot](img/serier-parallel.png)
+![](img/serier-parallel.png)
 
 - Left circuit: S______
 - Right circuit: P______
 
-# Type of circuit - answers
+## Type of circuit - answers
 
-![Two types of circuot](img/serier-parallel.png)
+![](img/serier-parallel.png)
 
 - Left circuit: Series
 - Right circuit: Parallel
 
-# Conductors vs insulators
+## Conductors vs insulators
 
 Which conduct electric currents well?
 
@@ -88,7 +88,7 @@ Which conduct electric currents well?
 - plastic
 - silver
 
-# Conductors vs insulators - answers
+## Conductors vs insulators - answers
 
 Iron, copper, and silver are conductors.
 The rest are insulators.

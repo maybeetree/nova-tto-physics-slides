@@ -1,6 +1,6 @@
 # Chapter 1 Section 4: Electricity and Safety
 
-Learning objectives
+## Learning objectives
 
 1. *Explain* the dangers of using electricity
 1. *Explain* what circuit breaks and group fuses do
@@ -9,7 +9,7 @@ Learning objectives
 1. *Identify* and *write down* safety features
 1. *Explain* induced voltage
 
-# Overloading and short circuits
+## Overloading and short circuits
 
 - Overloading: too much current through wire causes heat
     and starts fire
@@ -17,27 +17,27 @@ Learning objectives
     that are connected accidentally,
     producing heat and causing fires.
 
-![Short circuit](img/short-circuit.jpg)
+![](img/short-circuit.jpg)
 
-# Electric shock
+## Electric shock
 
 - Current flowing through your body causes muscles
     to constrict, and can damage tissue
 
-![warning sign on electric fence](img/electric-fence.jpg)
+![](img/electric-fence.jpg)
 
-# Fuses
+## Fuses
 
 - Fuses burn up if too much power (normally > 16 A)
     flows through a group.
 - Circuit breakers work like fuses, but can be reset
     without replacing them
 
-![Meter cabinet](img/meter-cabinet.jpg)
+![](img/meter-cabinet.jpg)
 
-![Circuit breakers](img/circuit-breakers.jpg)
+![](img/circuit-breakers.jpg)
 
-# Double Insulation
+## Double Insulation
 
 - Wires have a layer of insulation (PCV) around the copper core
     to prevent shorts or shocks
@@ -45,9 +45,9 @@ Learning objectives
 - "Double insulation" means that the wires are also inside
     a hard tube
 
-![Double insulation symbol](img/double-insulation.jpg)
+![](img/double-insulation.jpg)
 
-# Earth Leakage Circuit Breakers
+## Earth Leakage Circuit Breakers
 
 - Current through live wire should be the same
     as current through neutral wire
@@ -55,7 +55,7 @@ Learning objectives
     to the ground
 - Earth leakage circuit breaker detects that
 
-![Earth leakage breaker diagram](img/earth-leakage-breaker-diagram.jpg)
+![](img/earth-leakage-breaker-diagram.jpg)
 
 
 

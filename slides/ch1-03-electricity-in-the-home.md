@@ -1,6 +1,6 @@
 # Chapter 1 Section 3: Electricity in the Home
 
-Learning Objectives:
+## Learning Objectives:
 
 1. *Describe* the domestic system
 1. *Calculate* overall current and power consumption of a group
@@ -9,22 +9,23 @@ Learning Objectives:
 1. *Calculate* the consumption of electrical energy in kWh and MJ
 1. [Plus] *Explain* how a circuit breaker works
 
-# Groups
+## Groups
 
 - Wiring is split up into multiple *groups*
 
-![Electrical groups](img/groups.jpg)
+![](img/groups.jpg)
 
-# Groups
+## Groups
+
 - Groups are wired *in parallel*
     - Same voltage in every group:
         $U = U_1 = U_2 = U_3 = ... = 230 \text{ V}$
 - Sum of currents in group is the total current
     - $I_{tot} = I_1 + I_2 + I_3 + ...$
 
-![Electrical diagram of groups](img/groups-diagram.jpg)
+![](img/groups-diagram.jpg)
 
-# Device power
+## Device power
 
 - Power is the product of voltage and current
     - $P = U \cdot I$
@@ -32,11 +33,11 @@ Learning Objectives:
     - $U is the voltage (Volts)
     - $I is the current (Amps)
 
-# Device power: experiments
+## Device power: experiments
 
-![Power experiment](img/power-experiment.jpg)
+![](img/power-experiment.jpg)
 
-# Example: total power
+## Example: total power
 
 The following appliances are connected to one group of a
 domestic supply:
@@ -48,7 +49,7 @@ domestic supply:
 
 Calculate the total current of the group.
 
-# Example - answer
+## Example - answer
 
 $P_{tot} = 800 + 2000 + 150 + 6 \times 3.0$
 
@@ -58,15 +59,15 @@ $I_{tot} = \frac{P_{tot}}{U} = \frac{2968}{230}$
 
 $I_{tot} = 12 \text{ A}$
 
-# Energy: kWh
+## Energy: kWh
 
 - kWh (kilowatt-hour) = $\text{kW} \cdot \text{h}$ = 3.6 \text{ MJ}
 - One watt of energy consumed/produced over one hour
 - More "understandable" unit of energy
 
-![kWh used on an energy meter](img/kwh-meter.jpg)
+![](img/kwh-meter.jpg)
 
-# Example: kWh
+## Example: kWh
 
 A desk lamp runs at 6.0 W for 60 hours.
 How much energy does it consume in kWh?
@@ -81,9 +82,9 @@ Required:
 
 - $E = \text{???}$
 
-![Desk lamp](img/desk-lamp.jpg)
+<!-- ![](img/desk-lamp.jpg) -->
 
-# Example - answer
+## Example - answer
 
 Given:
 
