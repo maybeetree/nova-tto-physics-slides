@@ -16,7 +16,8 @@ jobs:
     - run: |
         sudo apt install pandoc
         make
-        mv pptx/nova-tto-phys-ch1.pptx pptx/nova-tto-phys-ch1-${{ github.event.release.tag_name }}.pptx
+        tagname=$(git describe --tags --abbrev=0)
+        mv pptx/nova-tto-phys-ch1.pptx pptx/nova-tto-phys-ch1-$tagname.pptx
     - uses: ncipollo/release-action@v1
       with:
         artifacts: "pptx/*"
