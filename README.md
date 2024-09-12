@@ -19,3 +19,11 @@ Its is also possible to run `make pdf`
 to generate a LaTeX beamer presentation in PDF format.
 The output is stored in the `pdf` directory.
 
+## Copyright notice
+
+No copyright infringement is intended.
+If you believe that this repository violates your
+intellectual property rights,
+please contact maybetree48 *at* proton *dot* me
+and we can sort everything out.
+
