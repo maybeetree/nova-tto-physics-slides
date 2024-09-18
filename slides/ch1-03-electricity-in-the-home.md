@@ -13,7 +13,7 @@
 
 - Wiring is split up into multiple *groups*
 
-![](img/groups.jpg)
+![](img/groups.png)
 
 ## Groups
 
@@ -23,7 +23,7 @@
 - Sum of currents in group is the total current
     - $I_{tot} = I_1 + I_2 + I_3 + ...$
 
-![](img/groups-diagram.jpg)
+![](img/groups-diagram.png)
 
 ## Device power
 
@@ -35,7 +35,7 @@
 
 ## Device power: experiments
 
-![](img/power-experiment.jpg)
+![](img/power-experiment.png)
 
 ## Example: total power
 
@@ -65,7 +65,7 @@ $I_{tot} = 12 \text{ A}$
 - One watt of energy consumed/produced over one hour
 - More "understandable" unit of energy
 
-![](img/kwh-meter.jpg)
+![](img/kwh-meter.png)
 
 ## Example: kWh
 

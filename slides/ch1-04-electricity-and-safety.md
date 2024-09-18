@@ -17,14 +17,14 @@
     that are connected accidentally,
     producing heat and causing fires.
 
-![](img/short-circuit.jpg)
+![](img/short-circuit.png)
 
 ## Electric shock
 
 - Current flowing through your body causes muscles
     to constrict, and can damage tissue
 
-![](img/electric-fence.jpg)
+![](img/electric-fence.png)
 
 ## Fuses
 
@@ -33,17 +33,17 @@
 - Circuit breakers work like fuses, but can be reset
     without replacing them
 
-![](img/meter-cabinet.jpg)
+![](img/meter-cabinet.png)
 
 ## Double Insulation
 
-- Wires have a layer of insulation (PCV) around the copper core
+- Wires have a layer of insulation (PVC) around the copper core
     to prevent shorts or shocks
 
 - "Double insulation" means that the wires are also inside
     a hard tube
 
-![](img/double-insulation-symbol.jpg)
+![](img/double-insulation-symbol.png)
 
 ## Earth Leakage Circuit Breakers
 
@@ -53,7 +53,7 @@
     to the ground
 - Earth leakage circuit breaker detects that
 
-![](img/earth-leakage-breaker-diagram.jpg)
+![](img/earth-leakage-breaker-diagram.png)
 
 ## Earthing
 
@@ -64,7 +64,7 @@
     earth leakage breaker,
     instead of shocking a person.
 
-![](img/kettle-earth.jpg)
+![](img/kettle-earth.png)
 
 ## Check knowledge
 
@@ -90,5 +90,5 @@ Appliances with a metal casing (washing machine, fridge) are always earthed.
 1. How is the leakage current through a metal casing discharged?
 1. How can you recognize and earth wire?
 1. Explain why there is no point earthing the outer casing
-    of a double-insulated appliance.
+    of a double insulated appliance.
 
